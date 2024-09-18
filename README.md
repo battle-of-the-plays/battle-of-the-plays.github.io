@@ -5,9 +5,9 @@ On this page you can find the rules for our card game “Battle of the Plays”.
 
 ### The Card Game
 
-![Sophocles: Antigone (playing card)](img/sophocles-antigone.png)
-![Back of playing card](img/back.png)
-![Mary Russell Mitford: Rienzi (playing card)](img/mitford-rienzi.png)
+![Sophocles: Antigone (playing card)](img/sophocles-antigone.jpg)
+![Back of playing card](img/back.jpg)
+![Mary Russell Mitford: Rienzi (playing card)](img/mitford-rienzi.jpg)
 
 Frank Fischer, Mark Schwindt: *Battle of the Plays. A Gamification Approach to Literary Network Analysis.* Berlin: SUKULTUR 2024. – 32+1 cards including case, color print. ISBN: 978-x-xxxxx-xx-x. **€__.** (order here)
 
