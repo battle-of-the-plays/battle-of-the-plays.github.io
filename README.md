@@ -9,9 +9,9 @@ On this page you can find the rules for our card game “Battle of the Plays”.
 ![Back of playing card](img/back.jpg)
 ![Mary Russell Mitford: Rienzi (playing card)](img/mitford-rienzi.jpg)
 
-Frank Fischer, Mark Schwindt: *Battle of the Plays. A Gamification Approach to Literary Network Analysis.* Berlin: SUKULTUR 2024. – 32+1 cards including case, color print. ISBN: 978-x-xxxxx-xx-x. **€__.** (order here)
+Frank Fischer, Mark Schwindt: **Battle of the Plays. A Gamification Approach to Literary Network Analysis.** Berlin: SUKULTUR 2024. – 32+1 cards including case, color print. ISBN: 978-x-xxxxx-xx-x. **€__.** (order here)
 
-The cards can also be downloaded for self-printing and customisation (link follows).
+The cards are published under Creative Commons license [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) and can be downloaded for self-printing and customisation (link follows).
 
 ### This Is the Idea
 
@@ -54,7 +54,7 @@ The card deck is an entirely solid [quartette game](https://en.wikipedia.org/wik
 
 ### Behind the Stage
 
-The first version of this card game with 32 German-language plays was released under the title [“Dramenquartett”](https://dramenquartett.github.io/) at the DHd2018 conference in Cologne on March 1, 2018, and won the Best Poster Award. Plans to craft a version of the game revolving around European drama already originated in mid-November 2017 at the TEI conference in Victoria, British Columbia. The actual work started at the end of March 2018 in the “Why Not” cafe at the Danube embankment in Budapest and continued in April and May at “Café Caspar” in Vienna. The original name of the international version of the game was “Brecht Beats Shakespeare!”, and it was released as a poster at DH2018 in México City ([doi:10.6084/m9.figshare.6667424](https://doi.org/10.6084/m9.figshare.6667424)). We had a few copies of the card game printed (see [here](https://x.com/angelikah/status/1012100869301702657)), but never managed to publish it. Work resumed in early summer 2024 at Freie Universität Berlin, between a team lunch at [Mensa FU II](https://www.stw.berlin/mensen/einrichtungen/freie-universit%C3%A4t-berlin/mensa-fu-ii.html) and a [fritz-kola super zero](https://fritz-kola.com/de/produkte/kola-super-zero) at “Café Kauderwelsch”.
+The predecessor of this card game with 32 German-language plays was released under the title [“Dramenquartett”](https://dramenquartett.github.io/) at the DHd2018 conference in Cologne on March 1, 2018, and won the Best Poster Award. Plans to craft a version of the game revolving around European drama already originated in mid-November 2017 at the TEI conference in Victoria, British Columbia. The actual work started at the end of March 2018 in the “Why Not” cafe at the Danube embankment in Budapest and continued in April and May at “Café Caspar” in Vienna. The original name of the international version of the game was “Brecht Beats Shakespeare!”, and it was released as a poster at DH2018 in México City ([doi:10.6084/m9.figshare.6667424](https://doi.org/10.6084/m9.figshare.6667424)). We had a few copies of the card game printed (see [here](https://x.com/angelikah/status/1012100869301702657)), but never managed to publish it. Work resumed in early summer 2024 at Freie Universität Berlin, between a team lunch at [Mensa FU II](https://www.stw.berlin/mensen/einrichtungen/freie-universit%C3%A4t-berlin/mensa-fu-ii.html) and a [fritz-kola super zero](https://fritz-kola.com/de/produkte/kola-super-zero) at “Café Kauderwelsch”. We gave the cards a fresh look and agreed with [SUKULTUR](https://sukultur.de/), the Berlin-based publishing house, to print a first edition.
 
 ### References
 - [card-game data](https://github.com/lehkost/dramenquartett/tree/master/dh2018-mexico) (as printed on the cards)
