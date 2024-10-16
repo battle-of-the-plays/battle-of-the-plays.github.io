@@ -9,7 +9,7 @@ On this page you can find the rules for our card game “Battle of the Plays”.
 ![Back of playing card](img/back.jpg)
 ![Mary Russell Mitford: Rienzi (playing card)](img/mitford-rienzi.jpg)
 
-Frank Fischer, Mark Schwindt: **Battle of the Plays. A Gamification Approach to Literary Network Analysis.** Berlin: SUKULTUR 2024. – 32+1 cards including case, color print. ISBN: 978-3-95566-182-3. **€15,00.** (order here)
+Frank Fischer, Mark Schwindt: **Battle of the Plays. A Gamification Approach to Literary Network Analysis.** Berlin: SUKULTUR 2024. – 32+1 cards including case, color print. ISBN: 978-3-95566-182-3. **€15,00.** ([order here](https://sukultur.de/produkt/battle-of-the-plays-a-gamification-approach-to-literary-network-analysis/))
 
 The cards are published under Creative Commons license [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) and can be downloaded for self-printing and customisation [here](pdf/battle_of_the_plays_web_version.pdf).
 
