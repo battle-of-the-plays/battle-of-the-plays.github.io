@@ -66,7 +66,8 @@ The predecessor of this card game with 32 German-language plays was released und
 
 ### “Battle of the Plays” Championships
 - [Potsdam, 10 December 2019](https://x.com/peertrilcke/status/1204410193812971522) ([winner](https://x.com/jbyszuk/status/1204415618339885070))
-- [Vienna, 12 June 2024](https://x.com/DH_Potsdam/status/1800889495501553978) ([winner](https://x.com/DH_Potsdam/status/1800894501822796084))
+- [Vienna, 12 June 2024](https://web.archive.org/web/20240612135449/https://twitter.com/DH_Potsdam/status/1800889495501553978) ([winner](https://x.com/DH_Potsdam/status/1800894501822796084))
+- Berlin, 4 September 2025 ([winner](https://bsky.app/profile/dhpotsdam.bsky.social/post/3lxzaoee5b22p))
 
 ### Thanks
 A big shout out to the entire team of [Research Area 5](https://www.temporal-communities.de/research/digital-communities/index.html) of EXC 2020 “Temporal Communities”.
