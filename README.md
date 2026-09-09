@@ -23,7 +23,7 @@ This card game aims to playfully develop a feeling for the meaning of such value
 
 ### Defining a Minimal Canon
 
-The 32 cards assemble a minimal canon of European drama, reaching from antiquity up to the modern age (from the Greeks to Beckett).
+The 32 cards assemble a minimal canon of European drama, reaching from antiquity up to the present (from the Greeks to Beckett).
 
 Instead of lexicon-like descriptions of such a canon, our analytical instrument consists of graph visualisations and network values that produce comparability – which makes for a competitive game.
 
@@ -54,7 +54,7 @@ The card deck is an entirely solid [quartette game](https://en.wikipedia.org/wik
 
 ### Behind the Stage
 
-The predecessor of this card game with 32 German-language plays was released under the title [“Dramenquartett”](https://dramenquartett.github.io/) at the DHd2018 conference in Cologne on March 1, 2018, and won the Best Poster Award. Plans to craft a version of the game revolving around European drama already originated in mid-November 2017 at the TEI conference in Victoria, British Columbia. The actual work started at the end of March 2018 in the “Why Not” cafe at the Danube embankment in Budapest and continued in April and May at “Café Caspar” in Vienna. The original name of the international version of the game was “Brecht Beats Shakespeare!”, and it was released as a poster at DH2018 in México City ([doi:10.6084/m9.figshare.6667424](https://doi.org/10.6084/m9.figshare.6667424)). We had a few copies of the card game printed (see [here](https://x.com/angelikah/status/1012100869301702657)), but never managed to publish it. Work resumed in early summer 2024 at Freie Universität Berlin, between a team lunch at [Mensa FU II](https://www.stw.berlin/mensen/einrichtungen/freie-universit%C3%A4t-berlin/mensa-fu-ii.html) and a [fritz-kola super zero](https://fritz-kola.com/de/produkte/kola-super-zero) at “Café Kauderwelsch”. We gave the cards a fresh look and agreed with [SUKULTUR](https://sukultur.de/), the Berlin-based publishing house, to print a first edition.
+The predecessor of this card game with 32 German-language plays was released under the title [“Dramenquartett”](https://dramenquartett.github.io/) at the DHd2018 conference in Cologne on March 1, 2018, and won the Best Poster Award. Plans to craft a version of the game revolving around European drama already originated in mid-November 2017 at the TEI conference in Victoria, British Columbia. The actual work started at the end of March 2018 in the “Why Not” cafe at the Danube embankment in Budapest and continued in April and May at “Café Caspar” in Vienna. The original name of the international version of the game was “Brecht Beats Shakespeare!”, and it was released as a poster at DH2018 in México City ([doi:10.6084/m9.figshare.6667424](https://doi.org/10.6084/m9.figshare.6667424)). We had a few copies of the card game printed (see [here](https://twitter.com/angelikah/status/1012100869301702657)), but never managed to publish it. Work resumed in early summer 2024 at Freie Universität Berlin, between a team lunch at [Mensa FU II](https://www.stw.berlin/mensen/einrichtungen/freie-universit%C3%A4t-berlin/mensa-fu-ii.html) and a [fritz-kola super zero](https://fritz-kola.com/de/produkte/kola-super-zero) at “Café Kauderwelsch”. We gave the cards a fresh look and agreed with [SUKULTUR](https://sukultur.de/), the Berlin-based publishing house, to print a first edition.
 
 ### References
 - [card-game data](https://github.com/lehkost/dramenquartett/tree/master/dh2018-mexico) (as printed on the cards)
@@ -64,10 +64,11 @@ The predecessor of this card game with 32 German-language plays was released und
 - [Frank Fischer](https://lehkost.github.io/)
 - [Mark Schwindt](https://www.markschwindt.com/)
 
-### “Battle of the Plays” Championships
-- [Potsdam, 10 December 2019](https://x.com/peertrilcke/status/1204410193812971522) ([winner](https://x.com/jbyszuk/status/1204415618339885070))
-- [Vienna, 12 June 2024](https://web.archive.org/web/20240612135449/https://twitter.com/DH_Potsdam/status/1800889495501553978) ([winner](https://x.com/DH_Potsdam/status/1800894501822796084))
-- Berlin, 4 September 2025 ([winner](https://bsky.app/profile/dhpotsdam.bsky.social/post/3lxzaoee5b22p))
+### “Battle of the Plays” Championships 🏆
+- 1st · [Potsdam, 10 December 2019](https://twitter.com/peertrilcke/status/1204410193812971522) (winner: [Joanna Byszuk](https://joannaby.github.io/), see [here](https://twitter.com/jbyszuk/status/1204415618339885070))
+- 2nd · [Vienna, 12 June 2024](https://web.archive.org/web/20240612135449/https://twitter.com/DH_Potsdam/status/1800889495501553978) (winner: [Marie-Christine Boucher](https://www.mariechristineboucher.com/), see [here](https://twitter.com/DH_Potsdam/status/1800894501822796084))
+- 3rd · [Berlin, 4 September 2025](https://summit.dracor.org/barcamp) (winner: Tabeer Khilji, see [here](https://bsky.app/profile/dhpotsdam.bsky.social/post/3lxzaoee5b22p))
+- 4th · [Rostock, 8 September 2026](https://www.germanistik.uni-rostock.de/en/forschung/digital-humanities/rosdh/events/detail-view/n/women-playwrights-in-digital-corpora-a-dracor-hackathon-283694/) (winner: [Magdalena Victoria Basedow](https://www.germanistik.uni-rostock.de/personen/wiss-mitarbeitende/magdalena-victoria-basedow/))
 
 ### Thanks
 A big shout out to the entire team of [Research Area 5](https://www.temporal-communities.de/research/digital-communities/index.html) of EXC 2020 “Temporal Communities”.
